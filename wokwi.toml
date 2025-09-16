@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'sample/build\arduino.avr.uno\sample.ino.hex'
+elf = 'sample/build\arduino.avr.uno\sample.ino.elf'
